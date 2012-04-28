@@ -7,4 +7,6 @@
 .*.script_ok
 .dialyzer_ok
 Makefile
+Makefile.am
 erl_crash.dump
+fw-erl-app-template.app.in

@@ -7,5 +7,7 @@
 .*.erl_ok
 .*.script_ok
 Makefile
+Makefile.am
 erl_crash.dump
 module-*
+otp-test-wrapper.sh
